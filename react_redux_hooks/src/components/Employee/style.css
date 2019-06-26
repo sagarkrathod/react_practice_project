@@ -1,0 +1,9 @@
+.employee-container{
+    border: 1px solid #999;
+    margin:10px;
+}
+.employee-container div{
+      padding: 10px; 
+      background:#ccc;
+      
+}
